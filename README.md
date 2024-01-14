@@ -6,8 +6,6 @@
 <!-- New non-centered paragraph -->
 <p>I am a freelance developer, ML engineer at <a href="https://www.supercharge.work/" target="_blank"><strong>Supercharger</strong></a>, and startup founder of mobile app <a href="https://www.voteable.us/" target="_blank"><strong>Voteable</strong></a>. I have also worked at <strong>Capital One</strong> and <strong>PricewaterhouseCoopers</strong>.
 
-Hails from the east coast; studies in the Midwest:
-
 :house_with_garden: From <strong>Westfield, New Jersey</strong>
 <br>
 :city_sunset: Born in <strong>New York City, New York</strong> 
