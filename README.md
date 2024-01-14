@@ -8,9 +8,9 @@
 
 Hails from the east coast; studies in the Midwest:
 
-    :house_with_garden: From <strong>Westfield, New Jersey</strong>
-    :city_sunset: Born in <strong>New York City, New York</strong> 
-    :school: Studying Data Science and Economics in <strong>Cleveland, Ohio</strong> at <a href="https://case.edu/" target="_blank"><strong>Case Western Reserve University</strong></a>
+:house_with_garden: From <strong>Westfield, New Jersey</strong>
+:city_sunset: Born in <strong>New York City, New York</strong> 
+:school: Studying Data Science and Economics in <strong>Cleveland, Ohio</strong> at <a href="https://case.edu/" target="_blank"><strong>Case Western Reserve University</strong></a>
 </p>
 <h4 align="center">See <a href="https://github.com/ericelizes1/ericelizes1/blob/main/Eric%20Elizes%20_%20Resume.pdf" target="_blank">resume</a> for more</h4>
 <div align="center">
