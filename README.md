@@ -1,20 +1,36 @@
-
 <div align="center">
-    <h1 align="center">Hi, I'm Eric</h1>
+    <h1>Hi, I'm Eric</h1>
 </div>
 
-<!-- New non-centered paragraph -->
-<p>I am startup founder of mobile app <a href="https://www.voteable.us/" target="_blank"><strong>Voteable</strong></a>. I have also worked at <strong>Capital One</strong> and <strong>PricewaterhouseCoopers</strong>.
-
-:house_with_garden: From <strong>Westfield, New Jersey</strong>
-<br>
-:city_sunset: Born in <strong>New York City, New York</strong> 
-<br>
-:school: Studying Data Science and Economics in <strong>Cleveland, Ohio</strong> at <a href="https://case.edu/" target="_blank"><strong>Case Western Reserve University</strong></a>
-</p>
-<h4 align="center">See <a href="https://github.com/ericelizes1/ericelizes1/blob/main/Eric%20Elizes%20_%20Resume.pdf" target="_blank">resume</a> for more</h4>
+<!-- Introduction -->
 <div align="center">
-    <a href="https://1999azzar.github.io/1999AZZAR/">
-        <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
-    </a>
+    <strong>🚀 Software Engineer and 1st Employee at <a href="https://getsquad.app/" target="_blank">Squad</a></strong> 
+    <br>
+    <strong>🍎 Check us out in the <a href="https://apps.apple.com/us/app/squad-your-campus-together/id6502709871">App Store</a></strong>
+    <br>
+    <br>
+    Passionate about <strong>technology, society, and the future</strong>  
+    <br>
+    Experienced in backend, UX, data analysis, mobile apps
+    <br>
+    Dual degree in data science and economics
+</div>
+<br>
+
+<!-- GitHub Streak Stats -->
+<div align="center">
+    <img src="https://camo.githubusercontent.com/eb852b7d0b40e294115852b7aed9c95e987663c4f626613d1aaa9108a620a0d9/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d65726963656c697a65733126686964655f626f726465723d74727565267468656d653d7261646963616c" alt="GitHub Streak" />
+</div>
+<br>
+
+<!-- Resume -->
+<h4 align="center">
+    <a href="https://www.linkedin.com/in/eric-elizes/" target="_blank">My experience.</a>
+    <br>
+    Contact me for my resume.
+</h4>
+
+<!-- Retro-Themed Animated Footer -->
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=ff004c&height=100&section=footer&stroke=000000&strokeWidth=2"/>
 </div>
