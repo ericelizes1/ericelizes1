@@ -27,7 +27,6 @@
 <h4 align="center">
     <a href="https://www.linkedin.com/in/eric-elizes/" target="_blank">My experience.</a>
     <br>
-    Contact me for my resume.
 </h4>
 
 <!-- Retro-Themed Animated Footer -->
