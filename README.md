@@ -1,35 +1,34 @@
-<div align="center">
-    <h1>Hi, I'm Eric</h1>
-</div>
+<h1 align="center">🕹️ Welcome to the Terminal</h1>
 
-<!-- Introduction -->
-<div align="center">
-    <strong>🚀 Software Engineer and 1st Employee at <a href="https://getsquad.app/" target="_blank">Squad</a></strong> 
-    <br>
-    <strong>🍎 Check us out in the <a href="https://apps.apple.com/us/app/squad-your-campus-together/id6502709871">App Store</a></strong>
-    <br>
-    <br>
-    Passionate about <strong>technology, society, and the future</strong>  
-    <br>
-    Experienced in backend, UX, data analysis, mobile apps
-    <br>
-    Dual degree in data science and economics
-</div>
-<br>
+<p align="center">
+  <code style="font-size: 1.5rem; color: #00FF00;">Eric Elizes</code>
+</p>
 
-<!-- GitHub Streak Stats -->
-<div align="center">
-    <img src="https://camo.githubusercontent.com/eb852b7d0b40e294115852b7aed9c95e987663c4f626613d1aaa9108a620a0d9/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d65726963656c697a65733126686964655f626f726465723d74727565267468656d653d7261646963616c" alt="GitHub Streak" />
-</div>
-<br>
+<p align="center">
+  <em>AI Architect · Software Engineer · Founder</em><br>
+  <code>Location: Cleveland, OH | Stack: Python · FastAPI · RAG</code>
+</p>
 
-<!-- Resume -->
-<h4 align="center">
-    <a href="https://www.linkedin.com/in/eric-elizes/" target="_blank">My experience.</a>
-    <br>
-</h4>
+<hr>
 
-<!-- Retro-Themed Animated Footer -->
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=ff004c&height=100&section=footer&stroke=000000&strokeWidth=2"/>
-</div>
+<h3>💾 About Me</h3>
+<pre>
+- 🧠 AI Architect & SWE @ K2 Venture Partners, LlamaIndex contributor
+- 🛠 Full Stack @ Squad (Django API + Native Swift iOS)
+- ⚡ Building fast, lightweight, user-validated apps
+- 📱 Former founder @ Voteable (aggregated news of the people on your ballot)
+</pre>
+
+<h3>🔧 Tech Stack</h3>
+<pre>
+Languages:    Python | JavaScript | TypeScript | Swift
+Frameworks:   Django | FastAPI | React | Node.js
+Infra/AI:     Docker | AWS | OpenAI APIs | LlamaIndex
+</pre>
+
+<h3>📡 Connect</h3>
+<pre>
+🌐 Website: k2vp.com
+🐦 Twitter: twitter.com/ericelizes
+💼 LinkedIn: linkedin.com/in/eric-elizes
+</pre>
