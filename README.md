@@ -25,10 +25,3 @@ Languages:    Python | JavaScript | TypeScript | Swift
 Frameworks:   Django | FastAPI | React | Node.js
 Infra/AI:     Docker | AWS | OpenAI APIs | LlamaIndex
 </pre>
-
-<h3>📡 Connect</h3>
-<pre>
-🌐 Website: k2vp.com
-🐦 Twitter: twitter.com/ericelizes
-💼 LinkedIn: linkedin.com/in/eric-elizes
-</pre>
