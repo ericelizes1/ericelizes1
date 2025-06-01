@@ -1,4 +1,4 @@
-<h1 align="center">🕹️ Welcome to the Terminal</h1>
+<h1 align="center">🕹️ Welcome</h1>
 
 <p align="center">
   <code style="font-size: 1.5rem; color: #00FF00;">Eric Elizes</code>
