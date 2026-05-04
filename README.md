@@ -1,27 +1,20 @@
-<h1 align="center">🕹️ Welcome</h1>
+### Eric Elizes
 
-<p align="center">
-  <code style="font-size: 1.5rem; color: #00FF00;">Eric Elizes</code>
-</p>
+Applied AI engineer. AI-native developer building production LLM systems.
 
-<p align="center">
-  <em>AI Architect · Software Engineer · Founder</em><br>
-  <code>Location: Cleveland, OH | Stack: Python · FastAPI · RAG</code>
-</p>
+[elizes.dev](https://elizes.dev) · [LinkedIn](https://www.linkedin.com/in/eric-elizes/) · [X](https://x.com/ericelizes)
 
-<hr>
+---
 
-<h3>💾 About Me</h3>
-<pre>
-- 🧠 AI Architect & SWE @ K2 Venture Partners, LlamaIndex contributor
-- 🛠 Full Stack @ Squad (Django API + Native Swift iOS)
-- ⚡ Building fast, lightweight, user-validated apps
-- 📱 Former founder @ Voteable (aggregated news of the people on your ballot)
-</pre>
+#### now
 
-<h3>🔧 Tech Stack</h3>
-<pre>
-Languages:    Python | JavaScript | TypeScript | Swift
-Frameworks:   Django | FastAPI | React | Node.js
-Infra/AI:     Docker | AWS | OpenAI APIs | LlamaIndex
-</pre>
+multi-agent orchestration · task-graph-driven agent workflows · custom Skills authoring
+
+#### lately
+
+shipping at multi-engineer load via Claude Code + Codex multi-harness ·
+cross-agent message-bus coordination · git worktrees for parallel agent runs
+
+---
+
+*Most public repos are older. Real work is closed-source.*
