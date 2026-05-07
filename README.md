@@ -17,4 +17,4 @@ cross-agent message-bus coordination · git worktrees for parallel agent runs
 
 ---
 
-*Most public repos are older. My biggest work is closed-source.*
+*Most public repos are older. My biggest works are closed-source.*
