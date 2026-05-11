@@ -2,7 +2,7 @@
 
 Applied AI engineer. AI-native developer building production LLM systems.
 
-[elizes.dev](https://elizes.dev) · [LinkedIn](https://www.linkedin.com/in/eric-elizes/) · [X](https://x.com/ericelizes)
+[LinkedIn](https://www.linkedin.com/in/eric-elizes/) · [X](https://x.com/ericelizes)
 
 ---
 
